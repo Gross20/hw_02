@@ -13,3 +13,9 @@ h2{
 .Aboutme{
     font-size: 30px;
 }
+.row{
+    padding: 20px;
+}
+.col-md-4{
+    padding: 20px;
+}

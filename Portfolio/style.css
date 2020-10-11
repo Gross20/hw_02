@@ -1,13 +1,17 @@
+
 @media screen and (max-width: 760px){}
 
 h1{
     color: white;
-    background-color: teal;
+    background-color:rgb(103, 31, 219);
     
+}
+.Aboutme{
+    color:white
 }
 
 h2{
-    color: teal;
+    color: rgb(103, 31, 219);
     font-size: 75px;
 }
 .Aboutme{
@@ -19,3 +23,14 @@ h2{
 .col-md-4{
     padding: 20px;
 }
+.btn-default{
+    background-color: rgb(103, 31, 219);
+    color: white;}
+
+    body {
+        background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+      }
